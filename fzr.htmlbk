@@ -1,0 +1,134 @@
+<!doctype html>
+<html>
+<head>
+<title>Физио-Рехаб</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="fzr.css">
+	<!-- Start css3menu.com HEAD section -->
+	<link rel="stylesheet" href="fzr_files/css3menu2/style.css" type="text/css" /><style type="text/css">._css3m{display:none}</style>
+	<!-- End css3menu.com HEAD section -->
+	
+	<!-- Start css3menu.com HEAD section -->
+	<link rel="stylesheet" href="fzr_files/css3menu4/style.css" type="text/css" /><style type="text/css">._css3m{display:none}</style>
+	<!-- End css3menu.com HEAD section -->
+</head>
+<body>
+
+<div id="container">
+
+<div id="header">
+<img src="Sliki/logo.gif" alt="Физио-Рехаб" id="logoImg">
+<div id="headerText">
+<p id="paragraphHeader1">
+ЦЕНТАР ЗА КИНЕЗИТЕРАПИЈА И СКОЛИОЗИ
+</p>
+<p id="paragraphHeader2">
+Физио-Рехаб
+</p>
+<p id="paragraphHeader3">
+КВАЛИТЕТНА ГРИЖА ЗА ПОКВАЛИТЕТЕН ЖИВОТ
+</p>
+</div>
+
+
+
+<div id="menu">
+<!-- Start css3menu.com BODY section -->
+
+<!--
+<input type="checkbox" id="css3menu-switcher" class="c3m-switch-input">
+<ul id="css3menu2" class="topmenu">
+
+	<li class="switch"><label onclick="" for="css3menu-switcher"></label></li>
+	<li class="topfirst"><a href="#" style="height:18px;line-height:18px;">Новости</a></li>
+
+	<li class="topmenu"><a href="#" style="height:18px;line-height:18px;"><span>Услуги</span></a>
+
+	<ul>
+
+		<li><a href="#">Терафлекс третман</a></li>
+
+		<li><a href="#">Шрот метод за сколиози</a></li>
+
+		<li><a href="#">Физиотерапија на карлично дно</a></li>
+
+		<li><a href="#">Артростим</a></li>
+
+	</ul></li>
+
+	<li class="topmenu"><a href="#" style="height:18px;line-height:18px;">Новости</a></li>
+
+	<li class="topmenu"><a href="#" style="height:18px;line-height:18px;">Сведоштва</a></li>
+
+	<li class="topmenu"><a href="#" style="height:18px;line-height:18px;">Често поставувани прашања</a></li>
+
+	<li class="topmenu"><a href="#" style="height:18px;line-height:18px;">Галерија</a></li>
+
+	<li class="toplast"><a href="#" style="height:18px;line-height:18px;">Контакт</a></li>
+
+</ul><p class="_css3m"><a href="http://css3menu.com/">css menu maker</a> by Css3Menu.com</p>
+
+-->
+
+<!-- Start css3menu.com BODY section -->
+<input type="checkbox" id="css3menu-switcher" class="c3m-switch-input">
+<ul id="css3menu4" class="topmenu">
+	<li class="switch"><label onclick="" for="css3menu-switcher"></label></li>
+	<li class="topfirst"><a href="#" style="height:15px;line-height:15px;">Физио-Рехаб</a></li>
+	<li class="topmenu"><a href="#" style="height:15px;line-height:15px;"><span>Услуги</span></a>
+	<ul>
+		<li><a href="#">Терафлекс третман</a></li>
+		<li><a href="#">Шрот метод за сколиози</a></li>
+		<li><a href="#">Физиотерапија на карлично дно</a></li>
+		<li><a href="#">Артростим</a></li>
+	</ul></li>
+	<li class="topmenu"><a href="#" style="height:15px;line-height:15px;">Новости</a></li>
+	<li class="topmenu"><a href="#" style="height:15px;line-height:15px;">Сведоштва</a></li>
+	<li class="topmenu"><a href="#" style="height:15px;line-height:15px;">Често поставувани прашања</a></li>
+	<li class="topmenu"><a href="#" style="height:15px;line-height:15px;">Галерија</a></li>
+	<li class="toplast"><a href="#" style="height:15px;line-height:15px;">Контакт</a></li>
+</ul><p class="_css3m"><a href="http://css3menu.com/">css menu maker</a> by Css3Menu.com</p>
+<!-- End css3menu.com BODY section -->
+<!-- End css3menu.com BODY section -->
+</div>
+</div>
+
+<div id="formaZaNajava">
+<form>
+<label for="korisnik">Корисничко име:</label>
+<input type="text" id="korisnik">
+<br>
+<br>
+<label for="lozinka">Лозинка:</label>
+<input type="password" id="lozinka">
+<br>
+<br>
+<input type="submit" value="Најависе">
+<br>
+<br>
+<button>Регистрирајсе</button>
+</form>
+</div>
+
+<div id="content">
+<div id="contentLeft">
+<img src="Sliki/theraflex1.jpg" id="slikaPocetna">
+<p id="paragrafPocetna">Ова е центар за третирање на сите видови склелетно-мускулни дисфункции, специјализиран во областа на дисфункциите на ‘рбетниот столб. Физио-Рехаб е создаден по идеја на Борче Кукуноски, дипломиран кинезитерапевт/физиотерапевт. Дипломира на факултетот за Кинезитерапија/Физиотерапија при НСА Васил Левски- Софија Р.Бугарија во 2006 година, на истиот факултет магистрира во 2008, со специјализација во областа на скелетно-мускулните дисфункции. Има завршено повеќе дополнителни курсеви, а од 2010 е сертифициран Schroth Method терапевт-единствен во Р.Македонија. Работи како кинезитерапевт/физиотерапевт во приватна практика од 2008 година. Од крајот на 2014 година во центарот се третираат и пациенти со дисфункции на карлично дно.
+</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CWDzA0pnaAY" frameborder="0" allowfullscreen>
+</iframe>
+</div>
+<div id="contentRight">
+<p id="paragrafPromocii">
+Актуелни Промоции
+</p>
+</div>
+</div>
+
+<div id="footer">
+<p id="paragrafFooter"><span id="CopyRight"><b>&copy;</b></span>Fizio-Rehab 2015. All Rights Reserved.</p>
+</div>
+
+</div>
+</body>
+</html>
